@@ -1,0 +1,22 @@
+[
+    {
+        "Title": "DSa",
+        "Author": "sir hamza",
+        "Category": "cs",
+        "Publication year": 2025,
+        "ISBN": 667,
+        "Total copies": 3,
+        "Available copies": 3,
+        "Description": "na"
+    },
+    {
+        "Title": "medd",
+        "Author": "sir awais",
+        "Category": "medical",
+        "Publication year": 2024,
+        "ISBN": 668,
+        "Total copies": 3,
+        "Available copies": 3,
+        "Description": "na"
+    }
+]
